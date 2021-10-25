@@ -11,4 +11,4 @@ body {overflow:hidden;margin:0px;font-family:'Raleway'; font-size:12pt;border:5p
 /*Breadcrumbs*/
 .pferde-sattel-breadcrumbs-1{font-family:var(--schriftart2);font-size:var(--schriftgrosse3);color:var(--farbe5);text-decoration:none;line-height:0.5;}
 /*Buttons*/
-.button1{font-family:var(--schriftart2);font-size:var(--schriftgrosse3);color:var(--farbe5);text-decoration:none;line-height:1.25;background-color:var(--farbe1);padding:8px 15px;border-radius:3px;}
+.button1{font-family:var(--schriftart2);font-size:var(--schriftgrosse3);color:var(--farbe5);text-decoration:none;line-height:1.25;background-color:var(--farbe1);padding:8px 15px;border-radius:3px;margin-top:55px;}
