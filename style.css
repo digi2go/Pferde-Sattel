@@ -3,13 +3,13 @@
 /*Schriftarten*/
 :root {--schriftart1: 'Libre Baskerville';--schriftart2: 'Raleway';}
 /*Schriftgrössen*/
-:root {--schriftgrosse1: 24pt;--schriftgrosse2: 14pt;--schriftgrosse3: 12pt;}
+:root {--schriftgrosse1: 24pt;--schriftgrosse2: 14pt;--schriftgrosse3: 12pt;--schriftgrosse4: 10pt;}
 /*Farben*/
 :root {--farbe1: #6e2626;--farbe2: #f3efe3;--farbe3: #000000;--farbe5: #ffffff;--farbe6: #555555;}
 /*Allgemein*/
 body{overflow:hidden;margin:0px;font-family:'Raleway'; font-size:12pt;border:5px solid transparent;-ms-overflow-style: none;/* IE and Edge */ scrollbar-width: none;/* Firefox */}
 /*Breadcrumbs*/
-.divbreadcrumbs{margin-top:15px;}
-.pferde-sattel-breadcrumbs-1{font-family:var(--schriftart2);font-size:var(--schriftgrosse3);color:var(--farbe5);text-decoration:none;line-height:0.5;margin-top:10px;}
+.divbreadcrumbs{margin-top:25px;}
+.pferde-sattel-breadcrumbs-1{font-family:var(--schriftart2);font-size:var(--schriftgrosse4);color:var(--farbe5);text-decoration:none;line-height:0.5;margin-top:10px;}
 /*Buttons*/
-.button1{font-family:var(--schriftart2);font-size:var(--schriftgrosse3);color:var(--farbe5);text-decoration:none;line-height:1.25;background-color:var(--farbe1);padding:8px 15px;border-radius:3px;margin-top:55px;}
+.button1{font-family:var(--schriftart2);font-size:var(--schriftgrosse4);color:var(--farbe5);text-decoration:none;line-height:1.25;background-color:var(--farbe1);padding:8px 15px;border-radius:3px;margin-top:55px;}
