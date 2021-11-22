@@ -11,6 +11,7 @@ body{margin-top:0px;overflow:hidden;font-family:'Raleway'; font-size:var(--schri
 /*Breadcrumbs*/
 .pferde-sattel-breadcrumbs-1{font-family:var(--schriftart2);font-size:var(--schriftgrosse4);color:var(--farbe3) !important;text-decoration:none;line-height:0.5;margin-top:0px;}
 /*Kontakt Icons */
+div.fa1div{float:right;}
 a.fa1 {float:right;font-size:19px !important;border-radius:5px;background-color:var(--farbe1);color:var(--farbe2);width:30px;height:30px;text-align:center;line-height:1.6;margin:-2.5px 0 0 10px;}
 /*Buttons*/
 .divbutton{margin:7px 0 0 -8px;}
@@ -19,6 +20,6 @@ box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28);cursor:pointer;}
 @media only screen and (max-width: 360px) {
   .divbutton{margin:0 40px 0 -8px;}
   .button1{text-align:center;display:block;width:100%;}
-  a.fa1{float:none;}
+   div.fa1div{float:none;}
 }
 
