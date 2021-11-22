@@ -33,7 +33,7 @@ box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28);cursor:pointer;}
 @media only screen and (max-width: 360px) {
    div.divfa1{float:none;}
 }
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 520px) {
     .infobox1{display:none;}
     .katalogtab1,.katalogtab2,katalogtab3{padding-bottom:5px;width:31%;}
   .texthide1{display:none;}
