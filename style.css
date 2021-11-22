@@ -22,4 +22,7 @@ box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28);cursor:pointer;}
   .button1{text-align:center;display:block;width:100%;}
    div.divfa1{float:none;}
 }
+@media only screen and (max-width: 600px) {
+   div.divfa1{float:none;}
+}
 
