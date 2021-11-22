@@ -9,10 +9,12 @@
 /*Allgemein*/
 body{margin-top:0px;overflow:hidden;font-family:'Raleway'; font-size:var(--schriftgrosse4);border:5px solid transparent;-ms-overflow-style: none;/* IE and Edge */ scrollbar-width: none;/* Firefox */}
 /*Breadcrumbs*/
-.pferde-sattel-breadcrumbs-1{font-family:var(--schriftart2);font-size:var(--schriftgrosse4);color:var(--farbe3) !important;text-decoration:none;line-height:0.5;margin-top:0px;}
+.pferde-sattel-breadcrumbs-1{position:absolute;top:5px;font-family:var(--schriftart2);font-size:var(--schriftgrosse4);color:var(--farbe3) !important;text-decoration:none;line-height:1.6;margin:0;}
+a.fa2 {color:var(--farbe3);text-decoration:none;font-size:19px;position:relative;top:2px;margin:0 5px 0 0;}
 /*Kontakt Icons */
-div.divfa1{float:right;}
-a.fa1 {float:right;font-size:19px !important;border-radius:5px;background-color:var(--farbe1);color:var(--farbe2);width:30px;height:30px;text-align:center;line-height:1.6;margin:-2.5px 0 0 10px;}
+div.divfa1{position:absolute;top:3px;right:0px;}
+a.fa1 {font-size:19px !important;border-radius:5px;background-color:var(--farbe1);color:var(--farbe2);width:30px;height:30px;text-align:center;line-height:1.6;margin:2px 0 0 10px;text-decoration:none ;}
+a.telefontext{color:var(--farbe3);text-decoration:none;background-color:var(--farbe1);color:var(--farbe5);height:26px;display:inline-block;line-height:1.7;margin:0 0 0 -10px;padding:0px 10px 4.5px 10px;border-radius:5px;font-size:16px !important;position:relative;top:-3px;}
 /*Buttons*/
 .divbutton{margin:7px 0 0 -8px;}
 .button1{font-family:var(--schriftart2);font-size:var(--schriftgrosse3);color:var(--farbe5);text-decoration:none;line-height:1.25;background-color:var(--farbe1);padding:10px 25px;border-radius:3px;-webkit-box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28); 
@@ -23,6 +25,6 @@ box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28);cursor:pointer;}
    div.divfa1{float:none;}
 }
 @media only screen and (max-width: 600px) {
-   div.divfa1{float:none;}
+  a.telefontext{display:none;}
 }
 
