@@ -44,7 +44,7 @@ box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28);cursor:pointer;}
   .texthide3{display:none;}
   .infobox1{padding:15px 25px;}
 }
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 960px) {
   .infoboxbutton1{display:inline-flex;font-family:var(--schriftart2);font-size:var(--schriftgrosse4);color:var(--farbe4);text-decoration:none;line-height:1.25;background-color:transparent;padding:0px;-webkit-box-shadow: none; 
 box-shadow: none;margin-top:0px;font-weight:900;}
 }
