@@ -33,13 +33,13 @@ box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28);cursor:pointer;}
 @media only screen and (max-width: 360px) {
    div.divfa1{float:none;}
 }
-@media only screen and (max-width: 460px) {
+@media only screen and (max-width: 480px) {
     .infobox1{display:none;}
     .katalogtab1,.katalogtab2,katalogtab3{padding-bottom:5px;width:31%;}
   .texthide1{display:none;}
   .katalogtab3{display:inline-flex;justify-content: center;width:31%;text-align:center;padding-bottom:15px;margin:0;font-size:var(--schriftgrosse3);}
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 680px) {
   a.telefontext{display:none;}
   .texthide3{display:none;}
   .infobox1{padding:15px 25px;}
