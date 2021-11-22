@@ -9,7 +9,7 @@
 /*Allgemein*/
 body{margin-top:0px;overflow:hidden;font-family:'Raleway'; font-size:12pt;border:5px solid transparent;-ms-overflow-style: none;/* IE and Edge */ scrollbar-width: none;/* Firefox */}
 /*Breadcrumbs*/
-.divbreadcrumbs{margin-top:25px;}
+.divbreadcrumbs{margin-top:25px;color:black;}
 .pferde-sattel-breadcrumbs-1{font-family:var(--schriftart2);font-size:var(--schriftgrosse4);color:black;text-decoration:none;line-height:0.5;margin-top:10px;}
 /*Buttons*/
 .divbutton{margin:7px 0 0 -8px;}
