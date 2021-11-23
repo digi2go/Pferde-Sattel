@@ -9,7 +9,7 @@
 /*Allgemein*/
 body{margin-top:0px;overflow:hidden;font-family:var(--schriftart2); font-size:var(--schriftgrosse4);border:5px solid transparent;-ms-overflow-style: none;/* IE and Edge */ scrollbar-width: none;/* Firefox */}
 /*Breadcrumbs*/
-.pferde-sattel-breadcrumbs-1{position:absolute;top:9px;font-family:var(--schriftart2);font-size:var(--schriftgrosse5);color:var(--farbe3) !important;text-decoration:none;line-height:1.6;margin:0;}
+.pferde-sattel-breadcrumbs-1{position:absolute;top:10px;font-family:var(--schriftart2);font-size:var(--schriftgrosse5);color:var(--farbe3) !important;text-decoration:none;line-height:1.6;margin:0;}
 a.fa2 {color:var(--farbe3);text-decoration:none;font-size:var(--schriftgrosse1);position:relative;top:5px;margin:0 5px 0 0;}
 /*Kontakt Icons */
 div.divfa1{position:absolute;top:3px;right:0px;}
@@ -18,9 +18,7 @@ box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28);}
 a.telefontext{color:var(--farbe4);text-decoration:none;background-color:var(--farbe2);height:26px;display:inline-block;line-height:1.6;margin:0 0 0 -20px;padding:0px 15px 4px 25px;border-radius:2px;font-size:15px !important;position:relative;top:-3px;-webkit-box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28); 
 box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28);z-index:-1;}
 /*Infobox*/
-.infobox1{display:block;background-color:var(--farbe2);margin: 55px 0 0 0;padding:10px 25px 25px 25px;border-radius:2px;border-left:5px solid #6e2626;}
-.titlehide1{display:block;}
- .texthide4{display:none;font-weight:900;}
+
 /* Tabs */
 .katalogtabs1{position: fixed;bottom: 0;width: 100%;display:block;}
 .katalogtab1,.katalogtab2,.katalogtab3{display:inline-flex;justify-content: center;width:48%;text-align:center;padding-bottom:15px;margin:0;font-size:var(--schriftgrosse4);color:var(--farbe3);font-family:var(--schriftart2);}
