@@ -18,7 +18,7 @@ box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28);}
 a.telefontext{color:var(--farbe2);text-decoration:none;background-color:var(--farbe1);color:var(--farbe5);height:26px;display:inline-block;line-height:1.7;margin:0 0 0 -10px;padding:0px 10px 4.5px 10px;border-radius:2px;font-size:16px !important;position:relative;top:-3px;-webkit-box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28); 
 box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28);}
 /*Infobox*/
-.infobox1{display:block;background-color:var(--farbe2);margin: 55px 0 0 0;padding:10px 25px 25px 25px;border-radius:2px;border-left:5px solid #6e262626;}
+.infobox1{display:block;background-color:var(--farbe2);margin: 55px 0 0 0;padding:10px 25px 25px 25px;border-radius:2px;border-left:5px solid #6e2626;}
 .titlehide1{display:block;}
  .texthide4{display:none;font-weight:900;}
 /* Tabs */
