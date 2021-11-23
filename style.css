@@ -15,7 +15,7 @@ a.fa2 {color:var(--farbe3);text-decoration:none;font-size:19px;position:relative
 div.divfa1{position:absolute;top:3px;right:0px;}
 a.fa1 {font-size:19px !important;border-radius:2px;background-color:var(--farbe1);color:var(--farbe2);width:30px;height:30px;text-align:center;line-height:1.6;margin:2px 0 0 10px;text-decoration:none ;-webkit-box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28); 
 box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28);}
-a.telefontext{color:var(--farbe2);text-decoration:none;background-color:var(--farbe1);color:var(--farbe5);height:26px;display:inline-block;line-height:1.7;margin:0 0 0 -10px;padding:0px 10px 4.5px 10px;border-radius:2px;font-size:16px !important;position:relative;top:-3px;font-family:arial;font-weight:600;-webkit-box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28); 
+a.telefontext{color:var(--farbe2);text-decoration:none;background-color:var(--farbe1);color:var(--farbe5);height:26px;display:inline-block;line-height:1.7;margin:0 0 0 -10px;padding:0px 10px 4.5px 10px;border-radius:2px;font-size:16px !important;position:relative;top:-3px;-webkit-box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28); 
 box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28);}
 /*Infobox*/
 .infobox1{display:block;background-color:var(--farbe2);margin: 55px 0 0 0;padding:10px 25px 25px 25px;border-radius:2px;}
