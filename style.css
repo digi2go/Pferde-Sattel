@@ -31,7 +31,6 @@ box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28);cursor:pointer;margin-top:10px;
 box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28);cursor:pointer;}
 @media only screen and (max-width: 480px) {
    div.divfa1{float:none;}
-   .infobox2{display:none;}
    .katalogtab1,.katalogtab2,.katalogtab3{padding-bottom:5px;width:31%;}
   .katalogtab3{display:inline-flex;justify-content: center;width:31%;text-align:center;padding-bottom:15px;margin:0;}
    .texthide1{display:none;}
@@ -39,16 +38,10 @@ box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28);cursor:pointer;}
 @media only screen and (max-width: 660px) {
 }
 @media only screen and (max-width: 870px) {
-  .texthide3{display:none;}
-  .infobox1{padding:0px;display:flex;justify-content:center;background-color:transparent;margin-top:30px;}
-  a.telefontext{display:none;}
 }
 @media only screen and (max-width: 920px) {
-  .texthide5{display:none;}
 }
 @media only screen and (max-width: 1020px) {
-   .texthide4{display:inline;}
-   .titlehide1{display:none;}
 }
 
 /*** KATALOG ***/
