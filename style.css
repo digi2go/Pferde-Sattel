@@ -35,7 +35,7 @@ box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28);cursor:pointer;}
 .button1{}
 .button2{color:var(--farbe5);background-color:var(--farbe3);} 
 .button3{background-color:var(--farbe7);color:var(--farbe3);font-weight:700;}
-.button4{color:var(--farbe3);font-weight:700;}
+.button4{color:var(--farbe3);font-weight:700;margin-top:25px;}
 
 /*** KATALOG ***/
 .awesomeTable-visualization-cards .card-content{border-radius: 0rem;padding:0px;overflow:hidden;}
