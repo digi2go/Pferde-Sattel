@@ -9,7 +9,7 @@
 /*Allgemein*/
 body{margin-top:0px;overflow:hidden;font-family:var(--schriftart2); font-size:var(--schriftgrosse4);border:5px solid transparent;-ms-overflow-style: none;/* IE and Edge */ scrollbar-width: none;/* Firefox */}
 /*Breadcrumbs*/
-.pferde-sattel-breadcrumbs-1{position:absolute;top:10px;left:45px;font-family:var(--schriftart2);font-size:var(--schriftgrosse5);color:var(--farbe3) !important;text-decoration:none;line-height:1.6;margin:0;}
+.pferde-sattel-breadcrumbs-1{position:absolute;top:11px;left:45px;font-family:var(--schriftart2);font-size:var(--schriftgrosse5);color:var(--farbe3) !important;text-decoration:none;line-height:1.6;margin:0;}
 a.fa2 {color:var(--farbe3);text-decoration:none;font-size:var(--schriftgrosse1);position:absolute;top:10px;margin:0 5px 0 0;}
 /*Kontakt Icons */
 div.divfa1{position:absolute;top:3px;right:0px;}
