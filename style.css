@@ -28,8 +28,8 @@ box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28);z-index:-1;}
 .katalogtab1,.katalogtab2,.katalogtab3{display:inline-flex;justify-content: center;width:48%;text-align:center;padding-bottom:15px;margin:0;font-size:var(--schriftgrosse4);color:var(--farbe3);font-family:var(--schriftart2);}
 .katalogtab3{display:none;}
 /*Buttons*/
-.headerbutton1{background-color:var(--farbe1);padding:8px 12px;display:inline;position:relative;top:47vh;z-index:+9999;color:var(--farbe5);}
-.infoboxbutton1{display:inline-flex;font-family:var(--schriftart2);font-size:var(--schriftgrosse5);color:var(--farbe5);text-decoration:none;line-height:1.25;background-color:var(--farbe1);padding:10px 25px;border-radius:2px;-webkit-box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28); 
+.headerbutton1{background-color:var(--farbe7);padding:8px 12px;display:inline;position:relative;top:47vh;z-index:+9999;color:var(--farbe1);}
+.infoboxbutton1{display:inline-flex;font-family:var(--schriftart2);font-size:var(--schriftgrosse5);color:var(--farbe1);text-decoration:none;line-height:1.25;background-color:var(--farbe7);padding:10px 25px;border-radius:2px;-webkit-box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28); 
 box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28);cursor:pointer;margin-top:10px;}
 .divbutton{display: flex;justify-content: center;margin:0;}
 a.button0 {font-family:var(--schriftart2);font-size:var(--schriftgrosse4);color:var(--farbe5);text-decoration:none;line-height:1.25;background-color:var(--farbe1);padding:10px 25px;border-radius:3px;-webkit-box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28); 
