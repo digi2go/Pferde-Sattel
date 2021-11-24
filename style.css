@@ -23,7 +23,7 @@ box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28);z-index:-1;}
 .container img{width:100%; object-fit: cover;}
 .centered {position: absolute;display: block;width: 80%;margin-top: 10px;top: 50%;left: 50%;transform: translate(-50%, -50%);background-color: var(--farbe3);opacity: 0.88;padding: 8vh 10vh 15vh 8vh;}
 .headertitel1{font-size:7vh;font-family:var(--schriftart1);line-height:1;}
-.headerbutton1{background-color:var(--farbe1);padding:8px 12px;display:inline;position:relative;top:47vh;z-index:+9999;color:var)--farbe5);}
+.headerbutton1{background-color:var(--farbe1);padding:8px 12px;display:inline;position:relative;top:47vh;z-index:+9999;color:var(--farbe5);}
 /* Tabs */
 .katalogtabs1{position: fixed;bottom: 0;width: 100%;display:block;}
 .katalogtab1,.katalogtab2,.katalogtab3{display:inline-flex;justify-content: center;width:48%;text-align:center;padding-bottom:15px;margin:0;font-size:var(--schriftgrosse4);color:var(--farbe3);font-family:var(--schriftart2);}
