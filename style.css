@@ -25,7 +25,7 @@ box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28);z-index:-1;}
 .headertitel1{font-size:7vh;font-family:var(--schriftart1);line-height:1;}
 /* Tabs */
 .katalogtabs1{position: fixed;bottom: 0;width: 100%;display:block;}
-.katalogtab1,.katalogtab2,.katalogtab3{display:inline-flex;justify-content: center;width:48%;text-align:center;padding-bottom:15px;margin:0;font-size:var(--schriftgrosse4);color:var(--farbe3);font-family:var(--schriftart2);}
+.katalogtab1,.katalogtab2,.katalogtab3{display:inline-flex;justify-content: center;width:48%;text-align:center;padding-bottom:15px;margin:0;font-size:var(--schriftgrosse4);color:var(--farbe3);font-family:var(--schriftart2);border-bottom:3px solid #f9f9f9;}
 .katalogtab3{display:none;}
 /*Buttons*/
 .headerbutton1{background-color:var(--farbe7);padding:9px 18px;display:inline;position:relative;top:48vh;z-index:+9999;color:var(--farbe3);border-radius:2px;font-weight:700;}
