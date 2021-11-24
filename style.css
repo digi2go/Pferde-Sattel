@@ -70,7 +70,7 @@ p.text-gray-700.text-base{font-size:var(--schriftgrosse3);font-family:var(--schr
 .container{display:none;}
 .texthide1,a.telefontext{display:none;}
 .katalogtab1,.katalogtab2,.katalogtab3{padding-bottom:5px;width:31%;}
-.katalogtab3{display:inline-flex;justify-content: center;width:31%;text-align:center;padding-bottom:15px;margin:0;}
+.katalogtab3{display:inline-flex;justify-content: center;width:31%;text-align:center;margin:0;}
 }
 
 @media only screen and (max-width: 528px) {
