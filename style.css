@@ -29,20 +29,8 @@ box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28);cursor:pointer;margin-top:10px;
 .divbutton{margin0;}
 .button1{font-family:var(--schriftart2);font-size:var(--schriftgrosse4);color:var(--farbe5);text-decoration:none;line-height:1.25;background-color:var(--farbe1);padding:10px 25px;border-radius:3px;-webkit-box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28); 
 box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28);cursor:pointer;}
-@media only screen and (max-width: 480px) {
-   div.divfa1{float:none;}
-   .katalogtab1,.katalogtab2,.katalogtab3{padding-bottom:5px;width:31%;}
-  .katalogtab3{display:inline-flex;justify-content: center;width:31%;text-align:center;padding-bottom:15px;margin:0;}
-   .texthide1{display:none;}
-}
-@media only screen and (max-width: 660px) {
-}
-@media only screen and (max-width: 870px) {
-}
-@media only screen and (max-width: 920px) {
-}
-@media only screen and (max-width: 1020px) {
-}
+/*** Responsive ***/
+
 
 /*** KATALOG ***/
 .awesomeTable-visualization-cards .card-content{border-radius: 0rem;padding:0px;overflow:hidden;}
