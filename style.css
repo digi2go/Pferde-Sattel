@@ -47,8 +47,8 @@ box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28);cursor:pointer;}
 .awt_list>ul{column-count: 3;}
 /*Eigene CSS*/
 .at-action-menu {display: none;}
-.font-bold.text-xl.mb-2 {font-family: var(--schriftart1);color:var(--farbe3);font-size:var(--schriftgrosse2);font-weight:500;}
-p.text-gray-700.text-base{font-size:var(--schriftgrosse3);font-family:var(--schriftart1);font-weight:300;color:var(--farbe1);margin-bottom:-10px;}
+.font-bold.text-xl.mb-2 {font-family: var(--schriftart1);color:var(--farbe1);font-size:var(--schriftgrosse2);font-weight:700;}
+p.text-gray-700.text-base{font-size:var(--schriftgrosse3);font-family:var(--schriftart2);font-weight:300;color:var(--farbe3);margin-bottom:-10px;}
 .info-farbe{font-family:'Raleway';font-size:var(--schriftgrosse5);font-weight:normal;background-color:#f5f5f5;color:var(--farbe3);padding:4px 20px;border-radius:2px;white-space: nowrap;margin-bottom:5px;display: inline-block;}
 
 /*** Responsive ***/
