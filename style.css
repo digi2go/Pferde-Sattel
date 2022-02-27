@@ -20,7 +20,7 @@ box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28);}
 a.telefontext{color:var(--farbe4);text-decoration:none;background-color:var(--farbe2);height:26px;display:inline-block;line-height:1.6;margin:0 0 0 -21px;padding:0px 15px 4px 22px;border-radius:2px;font-size:15px !important;position:relative;top:-3px;-webkit-box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28); 
 box-shadow: 5px 5px 9px -3px rgba(28,28,28,0.28);z-index:-1;}
 /*Infobox*/
-.container {position: relative;text-align: center;color: white;margin-top:65px;}
+.container {position: relative;text-align: center;color: white;margin-top:55px;}
 .container img{width:100%; object-fit: cover;}
 .centered {position: absolute;display: block;width: 80%;margin-top: 10px;top: 50%;left: 50%;transform: translate(-50%, -50%);background-color: var(--farbe3);opacity: 0.88;padding: 8vh 10vh 15vh 8vh;}
 .headertitel1{font-size:7vh;font-family:var(--schriftart1);line-height:1;}
